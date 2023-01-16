@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Hey ! I'm Cassandra<br>🌱 I’m currently learning fullstack developper<br>⚡ I make delicious cakes
+🔭 Hey ! I'm Cassandra<br>🌱 I’m currently learning front-end<br>⚡ I make delicious cakes
 
 
 ## 🌐 Socials:
